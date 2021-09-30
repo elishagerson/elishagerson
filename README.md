@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Geekyume3
 - 👀 I’m interested in web dev and games
-- 🌱 I’m currently learning python & unity development
-- 💞️ I’m looking to collaborate on front-end engineering and cpp programming...
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on front-end engineering...
 - 📫 How to reach me 
-          ✓telegram: @holvkdk
+          ✓telegram: @beingm3
           ✓email: elishahghanimah@gmail.com
 
 <!---
