@@ -58,9 +58,9 @@
 
 ###
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=elishagerson&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=elishagerson&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=DON'T%20KNOW%20ABT%20THIS" height="200" alt="stats graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=elishagerson&locale=en&mode=weekly&theme=gruvbox&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=elishagerson&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=DON'T%20KNOW%20ABT%20THIS" height="220" alt="stats graph"  />
 </div>
 
 ###
