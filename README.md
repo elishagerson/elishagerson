@@ -2,16 +2,16 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi there! I'm Elisha Gerson 🇹🇿</h1>
+<h1 align="center">Hi there! I'm Elisha Gerson</h1>
 
 <div align="center">
-  <a href="https://t.me/YourTelegramUsername">
+  <a href="https://t.me/blankmagik">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ndunduluelisha@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInUsername">
+  <a href="https://linkedin.com/in/elishah-ndundulu">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
